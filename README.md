@@ -48,3 +48,4 @@ A **Streamlit dashboard** could be integrated for:
    ```bash
    git clone https://github.com/Rohit-2-0/student-dropout.git
    cd student-dropout
+pip install -r requirements.txt
